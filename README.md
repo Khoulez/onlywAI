@@ -1,2 +1,2 @@
 # onlywAI
-proyecto final de desarrollo web 
+Web de AI 
